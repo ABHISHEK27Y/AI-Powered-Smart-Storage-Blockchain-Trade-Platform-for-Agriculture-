@@ -1,0 +1,7 @@
+temperature,humidity,moisture,gas_level,weight,status
+25,60,30,200,500,Good
+30,70,25,180,450,Good
+35,80,20,300,400,Bad
+40,85,15,350,350,Bad
+28,65,28,220,470,Good
+33,78,18,270,420,Bad
