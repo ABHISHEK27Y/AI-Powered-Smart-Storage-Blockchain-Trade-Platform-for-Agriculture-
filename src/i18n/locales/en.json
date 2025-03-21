@@ -1,0 +1,34 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "storage": "Storage",
+    "payments": "Payments",
+    "weather": "Weather",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "forecast": "Forecast"
+  },
+  "farmer": {
+    "dashboard": "Farmer Dashboard",
+    "manageProducts": "Manage your products and storage",
+    "products": "Your Products",
+    "addProduct": "Add Product",
+    "storageConditions": "Storage Conditions",
+    "qualityMetrics": "Quality Metrics",
+    "paymentHistory": "Payment History",
+    "storagePricing": "Storage Pricing",
+    "basicStorage": "Basic Storage (30 days)",
+    "premiumStorage": "Premium Storage (90 days)",
+    "longTermStorage": "Long Term (180 days)"
+  },
+  "buyer": {
+    "dashboard": "Buyer Dashboard",
+    "browseProducts": "Browse products and track orders",
+    "marketplace": "Marketplace",
+    "orderHistory": "Order History",
+    "qualityMetrics": "Quality Metrics",
+    "trackOrder": "Track Order",
+    "purchaseNow": "Purchase Now"
+  }
+}
