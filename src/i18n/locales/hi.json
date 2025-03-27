@@ -1,0 +1,34 @@
+{
+  "common": {
+    "dashboard": "डैशबोर्ड",
+    "products": "उत्पाद",
+    "storage": "भंडारण",
+    "payments": "भुगतान",
+    "weather": "मौसम",
+    "temperature": "तापमान",
+    "humidity": "आर्द्रता",
+    "forecast": "पूर्वानुमान"
+  },
+  "farmer": {
+    "dashboard": "किसान डैशबोर्ड",
+    "manageProducts": "अपने उत्पादों और भंडारण का प्रबंधन करें",
+    "products": "उत्पाद",
+    "addProduct": "उत्पाद जोड़ें",
+    "storageConditions": "भंडारण की स्थिति",
+    "qualityMetrics": "गुणवत्ता मैट्रिक्स",
+    "paymentHistory": "भुगतान इतिहास",
+    "storagePricing": "भंडारण मूल्य",
+    "basicStorage": "बेसिक भंडारण (30 दिन)",
+    "premiumStorage": "प्रीमियम भंडारण (90 दिन)",
+    "longTermStorage": "लंबी अवधि (180 दिन)"
+  },
+  "buyer": {
+    "dashboard": "खरीदार डैशबोर्ड",
+    "browseProducts": "उत्पाद ब्राउज़ करें और ऑर्डर ट्रैक करें",
+    "marketplace": "मार्केटप्लेस",
+    "orderHistory": "ऑर्डर इतिहास",
+    "qualityMetrics": "गुणवत्ता मैट्रिक्स",
+    "trackOrder": "ऑर्डर ट्रैक करें",
+    "purchaseNow": "अभी खरीदें"
+  }
+}
